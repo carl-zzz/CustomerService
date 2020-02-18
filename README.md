@@ -24,7 +24,7 @@ If the blockingQueue is empty, the staff's thread will be waiting there.
 ## How to run:
 - Clean, Compile, and Build
 ```bash
-mvn Clean Compile exec:exec
+mvn clean compile exec:exec
 ```
 
 - Test:
